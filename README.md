@@ -2,10 +2,6 @@
 <h3 align="center">Data Analysis • Cyber Security • Computer Science</h3>
 
 <p align="center">
-  <em>"The only way to do great work is to love what you do"</em> – Steve Jobs
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analysis;Cyber+Security;Building+Reliable+Systems&center=true&width=500">
 </p>
 
@@ -53,15 +49,10 @@ I'm passionate about working with data, building secure systems, and exploring h
 
 ## 🤝 Let's Connect
 
-- 📧 Email: your.email@example.com
+- 📧 Email: michael.bernasconi@hotmail.com - mikeberna.mb@gmail.com
 - 🐙 GitHub: https://github.com/Michael-Bernasconi
 
 ---
-
 <p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House
-</p>
-
-<p align="center">
-  <sub>Last Updated: 2025</sub>
+  <em>"The only way to do great work is to love what you do"</em> – Steve Jobs
 </p>
