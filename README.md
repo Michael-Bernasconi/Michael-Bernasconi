@@ -56,17 +56,6 @@ I'm passionate about working with data, building secure systems, and exploring h
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michael-Bernasconi&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bernasconi&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
