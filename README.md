@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Michael Bernasconi</h1>
 <h3 align="center">IoT Systems • Data Analysis • Cyber Security</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=IoT+Systems+Engineering;Sensor+Data+Analysis;Secure+Distributed+Systems;MQTT+and+Microservices;Cloud-Native+IoT&center=true&width=650">
-</p>
-
 ---
 
 ## 🚀 About Me
