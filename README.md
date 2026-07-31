@@ -1,6 +1,12 @@
 <h1 align="center">👋 Hi, I'm Michael Bernasconi</h1>
 <h3 align="center">IoT Systems • Data Analysis • Cyber Security • High-Performance Computing</h3>
 
+<p align="center">
+  <a href="https://github.com/Michael-Bernasconi/CV">
+    <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-View_%26_Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Curriculum Vitae Repository">
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -65,7 +71,7 @@ My interests include **scalable systems**, **microservices**, **GPU computing**,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphDB](https://img.shields.io/badge/GraphDB-226B9D?style=for-the-badge&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-005A9C?style=for-the-badge&logoColor=white)
+![SPARQL](https://img.shields.io/badge/SPARQL-005A9C?style=for-the-badge&logo=sparql&logoColor=white)
 
 ---
 
@@ -117,6 +123,7 @@ My interests include **scalable systems**, **microservices**, **GPU computing**,
 
 ## 🤝 Let's Connect
 
+- 📄 **Curriculum Vitae:** [github.com/Michael-Bernasconi/CV](https://github.com/Michael-Bernasconi/CV)
 - 📞 **Phone:** +39 3479790101
 - 📧 **Email:** [michael.bernasconi@hotmail.com](mailto:michael.bernasconi@hotmail.com)
 - 👔 **LinkedIn:** [linkedin.com/in/michael-bernasconi/](https://linkedin.com/in/michael-bernasconi/)
