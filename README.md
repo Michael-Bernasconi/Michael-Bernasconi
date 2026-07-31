@@ -5,25 +5,25 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Master's student** at the **University of Trento**[cite: 1],  
+I'm a **Computer Science Master's student** at the **University of Trento**,  
 with a strong focus on **Internet of Things (IoT)**, **data analysis from sensor networks**,  
-**high-performance computing (HPC/GPU)**, and **cyber security for distributed systems**[cite: 1].
+**high-performance computing (HPC/GPU)**, and **cyber security for distributed systems**.
 
 I am passionate about designing **end-to-end IoT architectures**, starting from data collection at the edge,  
 through real-time processing and secure communication, up to cloud deployment and visualization.  
-My interests include **scalable systems**, **microservices**, **GPU computing**, and **data-driven monitoring applications**[cite: 1].
+My interests include **scalable systems**, **microservices**, **GPU computing**, and **data-driven monitoring applications**.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🌐 Designing **IoT & distributed architectures** based on microservices[cite: 1]
-- ⚡ **GPU-Accelerated Computing** & parallel algorithms optimization (CUDA, OpenMP)[cite: 1]
-- 📡 Building **sensor data pipelines** using MQTT & Arduino[cite: 1]
-- 📊 Data mining, machine learning & spatial demand forecasting (Scikit-learn, Pandas)[cite: 1]
-- 🧠 Semantic Web & Knowledge Graphs (RDF, SPARQL, GraphDB, Protégé)[cite: 1]
-- 🔐 Applying **cyber security principles** to IoT and distributed environments[cite: 1]
-- ☁️ Deploying and orchestrating applications with **Docker & Kubernetes**[cite: 1]
+- 🌐 Designing **IoT & distributed architectures** based on microservices
+- ⚡ **GPU-Accelerated Computing** & parallel algorithms optimization (CUDA, OpenMP)
+- 📡 Building **sensor data pipelines** using MQTT & Arduino
+- 📊 Data mining, machine learning & spatial demand forecasting (Scikit-learn, Pandas)
+- 🧠 Semantic Web & Knowledge Graphs (RDF, SPARQL, GraphDB, Protégé)
+- 🔐 Applying **cyber security principles** to IoT and distributed environments
+- ☁️ Deploying and orchestrating applications with **Docker & Kubernetes**
 
 ---
 
@@ -86,31 +86,31 @@ My interests include **scalable systems**, **microservices**, **GPU computing**,
 
 ## 📡 IoT & HPC Projects & Research
 
-- 🚆 **Distributed Railway Systems:** Performance & robustness analysis of microservices-based architectures[cite: 1].
-- ⚡ **GPU-Accelerated SpMV Benchmarking:** Optimized CUDA kernels (CSR-Vector) & OpenMP implementations for high memory bandwidth & cache efficiency[cite: 1].
-- 🚕 **NYC Uber Mobility Data Mining:** Machine learning spatial-temporal demand forecasting model ($R^2=0.854$) using K-Means & Random Forest[cite: 1].
-- 🌦️ **Weather & Climate Knowledge Graph:** Mapped open data to OWL ontologies using iTelos methodology, Karma, RDF/Turtle, and SPARQL queries in GraphDB[cite: 1].
-- 🌐 **Web Applications:** Custom responsive business web development using modern Web standards[cite: 1].
+- 🚆 **Distributed Railway Systems:** Performance & robustness analysis of microservices-based architectures.
+- ⚡ **GPU-Accelerated SpMV Benchmarking:** Optimized CUDA kernels (CSR-Vector) & OpenMP implementations for high memory bandwidth & cache efficiency.
+- 🚕 **NYC Uber Mobility Data Mining:** Machine learning spatial-temporal demand forecasting model ($R^2=0.854$) using K-Means & Random Forest.
+- 🌦️ **Weather & Climate Knowledge Graph:** Mapped open data to OWL ontologies using iTelos methodology, Karma, RDF/Turtle, and SPARQL queries in GraphDB.
+- 🌐 **Web Applications:** Custom responsive business web development using modern Web standards.
 
 ---
 
 ## 🌐 Languages & Soft Skills
 
-- 🇮🇹 **Italian:** Native speaker[cite: 1]
-- 🇬🇧 **English:** B2 IELTS (Speaking & Writing)[cite: 1]
-- 🧠 **Soft Skills:** Problem Solving, Teamwork, Initiative, Working under tight deadlines[cite: 1]
+- 🇮🇹 **Italian:** Native speaker
+- 🇬🇧 **English:** B2 IELTS (Speaking & Writing)
+- 🧠 **Soft Skills:** Problem Solving, Teamwork, Initiative, Working under tight deadlines
 
 ---
 
 ## 🤝 Let's Connect
 
 - 📧 Email:  
-  - michael.bernasconi@hotmail.com[cite: 1]  
+  - michael.bernasconi@hotmail.com  
   - mikeberna.mb@gmail.com
 - 👔 LinkedIn:  
-  https://linkedin.com/in/michael-bernasconi/[cite: 1]
+  https://linkedin.com/in/michael-bernasconi/
 - 🐙 GitHub:  
-  https://github.com/Michael-Bernasconi[cite: 1]
+  https://github.com/Michael-Bernasconi
 
 ---
 
