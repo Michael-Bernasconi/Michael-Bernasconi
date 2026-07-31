@@ -15,15 +15,15 @@ My interests include **scalable systems**, **microservices**, **GPU computing**,
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Specializations
 
 - 🌐 Designing **IoT & distributed architectures** based on microservices
-- ⚡ **GPU-Accelerated Computing** & parallel algorithms optimization (CUDA, OpenMP)
+- ⚡ **GPU-Accelerated Computing** & parallel algorithms optimization (CUDA, cuSPARSE, OpenMP)
 - 📡 Building **sensor data pipelines** using MQTT & Arduino
-- 📊 Data mining, machine learning & spatial demand forecasting (Scikit-learn, Pandas)
-- 🧠 Semantic Web & Knowledge Graphs (RDF, SPARQL, GraphDB, Protégé)
+- 📊 Data mining, machine learning & spatial demand forecasting (Scikit-learn, Pandas, NetworkX)
+- 🧠 Semantic Web & Knowledge Graphs (RDF, SPARQL, GraphDB, Protégé, iTelos, Karma)
 - 🔐 Applying **cyber security principles** to IoT and distributed environments
-- ☁️ Deploying and orchestrating applications with **Docker & Kubernetes**
+- ☁️ Deploying and orchestrating applications with **Docker, Kubernetes & SLURM**
 
 ---
 
@@ -33,6 +33,7 @@ My interests include **scalable systems**, **microservices**, **GPU computing**,
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![cuSPARSE](https://img.shields.io/badge/cuSPARSE-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -84,33 +85,42 @@ My interests include **scalable systems**, **microservices**, **GPU computing**,
 
 ---
 
-## 📡 IoT & HPC Projects & Research
+## 🛠️ Key Projects & Academic Research
 
-- 🚆 **Distributed Railway Systems:** Performance & robustness analysis of microservices-based architectures.
-- ⚡ **GPU-Accelerated SpMV Benchmarking:** Optimized CUDA kernels (CSR-Vector) & OpenMP implementations for high memory bandwidth & cache efficiency.
-- 🚕 **NYC Uber Mobility Data Mining:** Machine learning spatial-temporal demand forecasting model ($R^2=0.854$) using K-Means & Random Forest.
-- 🌦️ **Weather & Climate Knowledge Graph:** Mapped open data to OWL ontologies using iTelos methodology, Karma, RDF/Turtle, and SPARQL queries in GraphDB.
-- 🌐 **Web Applications:** Custom responsive business web development using modern Web standards.
+- ⚡ **GPU-Accelerated SpMV Benchmarking (University of Trento):** Implemented SpMV on CPU (OpenMP) and GPU (CUDA, cuSPARSE); optimized CUDA kernels via CSR-Vector format for memory coalescence and benchmarked GFLOPS, bandwidth, and cache behavior.
+- 🚕 **NYC Uber Mobility Data Mining (University of Trento):** Analyzed 3.9M+ Uber records using K-Means, Folium, and NetworkX; trained a Random Forest Regressor ($R^2 = 0.854$) to forecast hourly spatial pickup demand.
+- 🌦️ **Weather & Climate Knowledge Graph (University of Trento):** Built an RDF/Turtle Knowledge Graph using iTelos methodology; mapped open data to an OWL ontology using Karma and queried microclimate trends with SPARQL in GraphDB.
+- 🌐 **Web Developer (Freelance Project):** Designed and deployed a responsive business website ([autofficinaformica.it](https://autofficinaformica.it)) using HTML5, CSS3, and JavaScript.
+- 🚆 **Curricular Research Intern (DISTA - University of Insubria):** Performance and Robustness Analysis of a Microservices-Based System for Distributed Railway Applications.
+- ✈️ **Avionics Assembly Intern (Leonardo S.p.A.):** Assisted with data bus wiring and electronic component integration for the M-346 aircraft.
+
+---
+
+## 🎓 Education
+
+- **Master's degree in Computer Science** | University of Trento *(2025 – Present)*  
+  *Relevant Coursework:* Data Mining, GPU Computing, Cloud/Fog Computing, Cyber Security, Data Analytics, Distributed Systems.
+- **Bachelor's degree in Computer Science** | University of Insubria *(2022 – 2025)* — **101/110**  
+  *Relevant Coursework:* Databases, Software Engineering, Operating Systems, Cybersecurity, IoT, Networks.
+- **High School Diploma in Electronics & Robotics** | ITIS L. Geymonat *(2016 – 2022)* — **92/100**  
+  *Relevant Coursework:* Electronics, Automata Systems, Electronic System Design, Robotics.
 
 ---
 
 ## 🌐 Languages & Soft Skills
 
 - 🇮🇹 **Italian:** Native speaker
-- 🇬🇧 **English:** B2 IELTS (Speaking & Writing)
+- 🇬🇧 **English:** B2 IELTS (Writing & Speaking)
 - 🧠 **Soft Skills:** Problem Solving, Teamwork, Initiative, Working under tight deadlines
 
 ---
 
 ## 🤝 Let's Connect
 
-- 📧 Email:  
-  - michael.bernasconi@hotmail.com  
-  - mikeberna.mb@gmail.com
-- 👔 LinkedIn:  
-  https://linkedin.com/in/michael-bernasconi/
-- 🐙 GitHub:  
-  https://github.com/Michael-Bernasconi
+- 📞 **Phone:** +39 3479790101
+- 📧 **Email:** [michael.bernasconi@hotmail.com](mailto:michael.bernasconi@hotmail.com)
+- 👔 **LinkedIn:** [linkedin.com/in/michael-bernasconi/](https://linkedin.com/in/michael-bernasconi/)
+- 🐙 **GitHub:** [github.com/Michael-Bernasconi](https://github.com/Michael-Bernasconi)
 
 ---
 
